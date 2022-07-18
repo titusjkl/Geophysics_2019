@@ -2,11 +2,6 @@
 
 #Reflection Seismology 
 
-
-
-
-
-
 #1C-Seismometer
 #Rayleigh, SKS
 
